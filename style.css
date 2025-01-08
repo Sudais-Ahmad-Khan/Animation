@@ -146,7 +146,7 @@ a {
 }
 @media only screen and (max-width:480px) {
     .container {
-        height: 720px;
+        height: 500px;
         width: 100%;
         gap: 30px;
     }
